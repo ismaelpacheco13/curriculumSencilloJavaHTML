@@ -1,0 +1,23 @@
+>>>nombre
+Ismael Pacheco Torrecilla
+>>>telefono
+123456789
+>>>email
+ismael.pacheco@iescampanillas.com
+>>>intereses
+Aprender nuevas tecnologías
+Ir al gimnasio
+Juegos de shooter
+>>>habilidades
+Inglés Medio/Alto
+Java
+Creación y mantenimiento de BD SQL
+>>>estudios
+Bachillerato Tecnológico
+Inglés B2
+>>>experiencia
+Nada por ahora
+>>>yo
+Dispongo de carnet B
+Ganas de viajar y / o desplazarme por trabajo
+
